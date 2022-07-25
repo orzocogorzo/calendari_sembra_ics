@@ -1,0 +1,1265 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Can Pujades Coop//NONSGML Calendari Hort v1.0//CA
+X-WR-CALNAME:Can Pujades
+REFRESH-INTERVAL;VALUE=DURATION:PT4H
+X-PUBLISHED-TTL:PT4H
+BEGIN:VTIMEZONE
+TZID:Europe/Madrid
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c543268f-e85e-4054-b6c3-f28f96309665
+DTSTAMP:2022-07-25T09:37:13.099444
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Albergínia]: Sembra en llavorer
+DESCRIPTION:<b>Albergínia</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): 1-2<br/>Durada del cicle fins la recolecció: 135/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:cefab434-1dab-428e-8221-4bb7072d96b4
+DTSTAMP:2022-07-25T09:37:13.099491
+DTSTART;VALUE=DATE:20220315
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Albergínia]: Trasplantament
+DESCRIPTION:<b>Albergínia</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): 1-2<br/>Durada del cicle fins la recolecció: 135/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c42a47-d4d6-43f9-b11b-551f45caf2c8
+DTSTAMP:2022-07-25T09:37:13.099506
+DTSTART;VALUE=DATE:20220615
+DTEND;VALUE=DATE:20221115
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Albergínia]: Recol·lecció
+DESCRIPTION:<b>Albergínia</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): 1-2<br/>Durada del cicle fins la recolecció: 135/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:0a806547-5dc2-4b8a-828c-58173ab57e2f
+DTSTAMP:2022-07-25T09:37:13.099517
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[All]: Plantació
+DESCRIPTION:<b>All</b><br/>Esdeveniment: Plantació de tubércles o bulbs<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 180<br/>Marc de plantació: 10x15
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:fa7f5add-e413-48ab-9e27-1ace32d13e4a
+DTSTAMP:2022-07-25T09:37:13.099528
+DTSTART;VALUE=DATE:20220515
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[All]: Recol·lecció
+DESCRIPTION:<b>All</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 180<br/>Marc de plantació: 10x15
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:366c5dbb-cf7f-443a-aa97-d6d3618f1885
+DTSTAMP:2022-07-25T09:37:13.099538
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20221115
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Api]: Sembra en llavorer
+DESCRIPTION:<b>Api</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Bianual<br/>Temps de germinació o brotació (dies): 20-25<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 25x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a09991-9b6b-4cbb-8929-063ba330bfb5
+DTSTAMP:2022-07-25T09:37:13.099550
+DTSTART;VALUE=DATE:20220315
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Api]: Trasplantament
+DESCRIPTION:<b>Api</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Bianual<br/>Temps de germinació o brotació (dies): 20-25<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 25x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:57ff4d85-99cc-454d-ba23-162e9a417738
+DTSTAMP:2022-07-25T09:37:13.099561
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Carbassó]: Sembra a terra
+DESCRIPTION:<b>Carbassó</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 8<br/>Profunditat semba (cm): 2-3<br/>Durada del cicle fins la recolecció: 75<br/>Marc de plantació: 80x80
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b0d8f6-5edf-4bde-bdc7-14e8e3af5c31
+DTSTAMP:2022-07-25T09:37:13.099571
+DTSTART;VALUE=DATE:20220515
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Carbassó]: Recol·lecció
+DESCRIPTION:<b>Carbassó</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 8<br/>Profunditat semba (cm): 2-3<br/>Durada del cicle fins la recolecció: 75<br/>Marc de plantació: 80x80
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:2bd01561-1187-4c82-996a-5f533234af65
+DTSTAMP:2022-07-25T09:37:13.099580
+DTSTART;VALUE=DATE:20220701
+DTEND;VALUE=DATE:20220915
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Carxofa]: Esqueix o trasplantament
+DESCRIPTION:<b>Carxofa</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): None<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 90<br/>Marc de plantació: 80x80
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:15e3afcc-c2a9-45ce-80f5-ff1aa9e09555
+DTSTAMP:2022-07-25T09:37:13.099590
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Carxofa]: Recol·lecció
+DESCRIPTION:<b>Carxofa</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): None<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 90<br/>Marc de plantació: 80x80
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:3a2eceae-f7c0-4882-bae0-5bcb5bfd5599
+DTSTAMP:2022-07-25T09:37:13.099600
+DTSTART;VALUE=DATE:20220815
+DTEND;VALUE=DATE:20221015
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ceba de Calçot]: Plantació
+DESCRIPTION:<b>Ceba de Calçot</b><br/>Esdeveniment: Plantació de tubércles o bulbs<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 150<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d88a8417-b50d-4d56-b1db-d847bb9d91c7
+DTSTAMP:2022-07-25T09:37:13.099610
+DTSTART;VALUE=DATE:20220115
+DTEND;VALUE=DATE:20220315
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ceba de Calçot]: Recol·lecció
+DESCRIPTION:<b>Ceba de Calçot</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 150<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb6f5c8-de6b-4cd8-8ca1-bde7a389ee8f
+DTSTAMP:2022-07-25T09:37:13.099619
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220415
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ceba]: Sembra en llavorer
+DESCRIPTION:<b>Ceba</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 180/120<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:123c5b95-98f9-46da-9555-a2fa1cdd0152
+DTSTAMP:2022-07-25T09:37:13.099628
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ceba]: Sembra en llavorer
+DESCRIPTION:<b>Ceba</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 180/120<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:7662d55e-ac07-4bb6-b218-bae036a8d4dc
+DTSTAMP:2022-07-25T09:37:13.099637
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220715
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ceba]: Trasplantament
+DESCRIPTION:<b>Ceba</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 180/120<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:b40b437a-4d71-4ba3-a597-10101fb8720c
+DTSTAMP:2022-07-25T09:37:13.099647
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ceba]: Recol·lecció
+DESCRIPTION:<b>Ceba</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 180/120<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:96464daa-c4b5-4ae2-a37f-81c53aa2c3ff
+DTSTAMP:2022-07-25T09:37:13.099656
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Cogombre]: Sembra a terra
+DESCRIPTION:<b>Cogombre</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5-8<br/>Profunditat semba (cm): 1-2<br/>Durada del cicle fins la recolecció: 60<br/>Marc de plantació: 40x100
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:4d7a760c-b4cf-4975-9c8b-79aa05d31718
+DTSTAMP:2022-07-25T09:37:13.099666
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Cogombre]: Recol·lecció
+DESCRIPTION:<b>Cogombre</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5-8<br/>Profunditat semba (cm): 1-2<br/>Durada del cicle fins la recolecció: 60<br/>Marc de plantació: 40x100
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d38c8efa-14b7-4013-8117-8cfaac352886
+DTSTAMP:2022-07-25T09:37:13.099675
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Col d'estiu]: Sembra en llavorer
+DESCRIPTION:<b>Col d'estiu</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 120/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:edd90e2a-5885-4743-af74-ade1b39d17dd
+DTSTAMP:2022-07-25T09:37:13.099685
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Col d'estiu]: Trasplantament
+DESCRIPTION:<b>Col d'estiu</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 120/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:158c7f23-5390-4f65-a622-39485ac45d22
+DTSTAMP:2022-07-25T09:37:13.099694
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Col d'estiu]: Recol·lecció
+DESCRIPTION:<b>Col d'estiu</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 120/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:49123a5e-d8bf-4c6d-a1f2-6e1ee7f9a04b
+DTSTAMP:2022-07-25T09:37:13.099704
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Col d'hivern]: Sembra en llavorer
+DESCRIPTION:<b>Col d'hivern</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 120/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9e112c-5caa-4254-8efb-f0576861a3be
+DTSTAMP:2022-07-25T09:37:13.099713
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Col d'hivern]: Trasplantament
+DESCRIPTION:<b>Col d'hivern</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 120/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:410324c8-ccfd-4170-99e5-3196589c122a
+DTSTAMP:2022-07-25T09:37:13.099722
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Col d'hivern]: Recol·lecció
+DESCRIPTION:<b>Col d'hivern</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 120/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:3b909c17-2125-4ef6-b053-04a490f9f6f9
+DTSTAMP:2022-07-25T09:37:13.099731
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Coliflor]: Sembra en llavorer
+DESCRIPTION:<b>Coliflor</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 150/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:51396aa3-914e-4378-9a91-ea2a4b0dd1d3
+DTSTAMP:2022-07-25T09:37:13.099741
+DTSTART;VALUE=DATE:20220701
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Coliflor]: Trasplantament
+DESCRIPTION:<b>Coliflor</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 150/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:60b76746-d540-4e4c-aa78-ce791b54e0d3
+DTSTAMP:2022-07-25T09:37:13.099750
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Coliflor]: Recol·lecció
+DESCRIPTION:<b>Coliflor</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 6<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: 150/90<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:e6edfd9a-aa98-4485-a686-31e76c9a8498
+DTSTAMP:2022-07-25T09:37:13.099759
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Enciam]: Sembra en llavorer
+DESCRIPTION:<b>Enciam</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 7<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 25x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ec7644-e279-4aaf-9817-29ff456f5b98
+DTSTAMP:2022-07-25T09:37:13.099769
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Enciam]: Trasplantament
+DESCRIPTION:<b>Enciam</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 7<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 25x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:7854dac7-f438-4206-910e-36c5068fbc6e
+DTSTAMP:2022-07-25T09:37:13.099778
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Enciam]: Recol·lecció
+DESCRIPTION:<b>Enciam</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 7<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 25x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:dce68f3c-20e5-4670-9c24-cea2a71f9023
+DTSTAMP:2022-07-25T09:37:13.099788
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220301
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Escarola]: Sembra en llavorer
+DESCRIPTION:<b>Escarola</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 20x35
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:e259a98c-ba09-4a5d-a8c1-4ed838993c73
+DTSTAMP:2022-07-25T09:37:13.099797
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Escarola]: Sembra en llavorer
+DESCRIPTION:<b>Escarola</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 20x35
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:17a0b71e-a648-43b9-bbcb-c2aa92ecf131
+DTSTAMP:2022-07-25T09:37:13.099806
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Escarola]: Trasplantament
+DESCRIPTION:<b>Escarola</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 20x35
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:6f357d05-122d-4724-a5b9-abc168539a24
+DTSTAMP:2022-07-25T09:37:13.099815
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Escarola]: Trasplantament
+DESCRIPTION:<b>Escarola</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 20x35
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:c52ca159-7e2d-4f8f-a1b2-ef3fb024f7cc
+DTSTAMP:2022-07-25T09:37:13.099824
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Escarola]: Recol·lecció
+DESCRIPTION:<b>Escarola</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 20x35
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a55d43-4b4c-4b20-a634-e391696678dd
+DTSTAMP:2022-07-25T09:37:13.099834
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Escarola]: Recol·lecció
+DESCRIPTION:<b>Escarola</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 90/60<br/>Marc de plantació: 20x35
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:ef3e1ad9-19c4-446e-84dc-f6d947a7eb3a
+DTSTAMP:2022-07-25T09:37:13.099843
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espinac]: Sembra a terra
+DESCRIPTION:<b>Espinac</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 7<br/>Profunditat semba (cm): 1-3<br/>Durada del cicle fins la recolecció: 90<br/>Marc de plantació: 10x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:97e750b5-50a2-4df6-a416-436af98af151
+DTSTAMP:2022-07-25T09:37:13.099852
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espinac]: Recol·lecció
+DESCRIPTION:<b>Espinac</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 7<br/>Profunditat semba (cm): 1-3<br/>Durada del cicle fins la recolecció: 90<br/>Marc de plantació: 10x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:c6984d75-0d2b-4c13-b8ad-87adf3148be5
+DTSTAMP:2022-07-25T09:37:13.099861
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220301
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Fava]: Sembra a terra
+DESCRIPTION:<b>Fava</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): 4-6<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:455e4905-5e97-43a8-a072-88362636a9ab
+DTSTAMP:2022-07-25T09:37:13.099871
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220715
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Fava]: Recol·lecció
+DESCRIPTION:<b>Fava</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): 4-6<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:b468a27f-0da2-4165-aad9-8c783bc53752
+DTSTAMP:2022-07-25T09:37:13.099880
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220301
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Maduixa]: Esqueix o trasplantament
+DESCRIPTION:<b>Maduixa</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): None<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 200/90<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b15c26-c8d1-42a1-b086-395bdb333931
+DTSTAMP:2022-07-25T09:37:13.099889
+DTSTART;VALUE=DATE:20221001
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Maduixa]: Esqueix o trasplantament
+DESCRIPTION:<b>Maduixa</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): None<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 200/90<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d78df1db-139e-4338-8f1f-4a72e392371e
+DTSTAMP:2022-07-25T09:37:13.099898
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Maduixa]: Recol·lecció
+DESCRIPTION:<b>Maduixa</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): None<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 200/90<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:a8c5afdb-b63e-4410-aabe-94407bbdc3e9
+DTSTAMP:2022-07-25T09:37:13.099908
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Mongeta]: Sembra a terra
+DESCRIPTION:<b>Mongeta</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 7<br/>Profunditat semba (cm): 2-5<br/>Durada del cicle fins la recolecció: 90<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:28d42e64-1bc2-4e9b-b703-d872fbe11867
+DTSTAMP:2022-07-25T09:37:13.099917
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Mongeta]: Recol·lecció
+DESCRIPTION:<b>Mongeta</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 7<br/>Profunditat semba (cm): 2-5<br/>Durada del cicle fins la recolecció: 90<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:6a759485-c72c-4281-9a88-4c08a3ea157e
+DTSTAMP:2022-07-25T09:37:13.099927
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Moniato]: Plantació
+DESCRIPTION:<b>Moniato</b><br/>Esdeveniment: Plantació de tubércles o bulbs<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 25x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:bcbf762b-f34f-450d-b0a4-d98262ca5690
+DTSTAMP:2022-07-25T09:37:13.099936
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Moniato]: Trasplantament
+DESCRIPTION:<b>Moniato</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 25x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f45ebad4-fe35-46d7-9cf6-6d0c263fd586
+DTSTAMP:2022-07-25T09:37:13.099945
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Moniato]: Recol·lecció
+DESCRIPTION:<b>Moniato</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 25x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:96facfee-d88d-42ad-a3ce-f033f4a15d76
+DTSTAMP:2022-07-25T09:37:13.099954
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Patata]: Plantació
+DESCRIPTION:<b>Patata</b><br/>Esdeveniment: Plantació de tubércles o bulbs<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d43b44f0-7795-4969-af90-7d077941564b
+DTSTAMP:2022-07-25T09:37:13.099964
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Patata]: Recol·lecció
+DESCRIPTION:<b>Patata</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): None<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:817f5469-3a07-4b55-ab4c-074fd1b9a6fd
+DTSTAMP:2022-07-25T09:37:13.099973
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Pastanaga]: Sembra a terra
+DESCRIPTION:<b>Pastanaga</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Bianual<br/>Temps de germinació o brotació (dies): 10-18<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: 75<br/>Marc de plantació: 5x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:3a6c0a65-36ae-47c7-a7c2-e5faa0488989
+DTSTAMP:2022-07-25T09:37:13.099982
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220301
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Pèsol]: Sembra a terra
+DESCRIPTION:<b>Pèsol</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5-10<br/>Profunditat semba (cm): 3<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 20x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f1de72ad-c295-4aab-975b-59998a4f545c
+DTSTAMP:2022-07-25T09:37:13.099992
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Pèsol]: Recol·lecció
+DESCRIPTION:<b>Pèsol</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5-10<br/>Profunditat semba (cm): 3<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 20x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:6b78c9b2-0019-45fe-9791-51c05d19c0e7
+DTSTAMP:2022-07-25T09:37:13.100001
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Pebrot]: Sembra en llavorer
+DESCRIPTION:<b>Pebrot</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10-12<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:dd1c05f1-809f-41ad-8ce8-a3b8ccb9f668
+DTSTAMP:2022-07-25T09:37:13.100010
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Pebrot]: Trasplantament
+DESCRIPTION:<b>Pebrot</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10-12<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:26d040d7-ece8-4fc7-8ab0-5a6b1a2e06a8
+DTSTAMP:2022-07-25T09:37:13.100019
+DTSTART;VALUE=DATE:20220615
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Pebrot]: Recol·lecció
+DESCRIPTION:<b>Pebrot</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10-12<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: 120/75<br/>Marc de plantació: 30x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:7abd58db-08a3-411d-9b0e-4f8beb65c9e2
+DTSTAMP:2022-07-25T09:37:13.100029
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Porro]: Sembra en llavorer
+DESCRIPTION:<b>Porro</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 13<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 210/150<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:8f4c7397-0fba-41c0-ad22-aba356b9a761
+DTSTAMP:2022-07-25T09:37:13.100038
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Porro]: Sembra en llavorer
+DESCRIPTION:<b>Porro</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 13<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 210/150<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:5742f3a1-6736-4df4-8ecf-5598daf1b046
+DTSTAMP:2022-07-25T09:37:13.100047
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Porro]: Trasplantament
+DESCRIPTION:<b>Porro</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 13<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 210/150<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:18a58cd7-2384-4a6c-83e0-35bd4db42595
+DTSTAMP:2022-07-25T09:37:13.100057
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Porro]: Trasplantament
+DESCRIPTION:<b>Porro</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 13<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 210/150<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:80644a01-a0cd-4015-86dc-b7f3680f2805
+DTSTAMP:2022-07-25T09:37:13.100066
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Porro]: Recol·lecció
+DESCRIPTION:<b>Porro</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 13<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 210/150<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:a985a4e9-6619-47a8-a46c-4fc967d596ec
+DTSTAMP:2022-07-25T09:37:13.100075
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Porro]: Recol·lecció
+DESCRIPTION:<b>Porro</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 13<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: 210/150<br/>Marc de plantació: 10x25
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:04e21baa-3934-4cf1-8352-134c5d067dbd
+DTSTAMP:2022-07-25T09:37:13.100084
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Rave]: Sembra a terra
+DESCRIPTION:<b>Rave</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5<br/>Profunditat semba (cm): 2<br/>Durada del cicle fins la recolecció: 40<br/>Marc de plantació: 10x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:df605590-50ff-4d10-9bba-c8a8fd8cc040
+DTSTAMP:2022-07-25T09:37:13.100094
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Tomàquet]: Sembra en llavorer
+DESCRIPTION:<b>Tomàquet</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5-8<br/>Profunditat semba (cm): 0,5-1,5<br/>Durada del cicle fins la recolecció: 145/75<br/>Marc de plantació: 40x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:ea6dd3f4-ac0a-4961-bb6e-deb7c01b4ccf
+DTSTAMP:2022-07-25T09:37:13.100103
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Tomàquet]: Trasplantament
+DESCRIPTION:<b>Tomàquet</b><br/>Esdeveniment: Trasplantament<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5-8<br/>Profunditat semba (cm): 0,5-1,5<br/>Durada del cicle fins la recolecció: 145/75<br/>Marc de plantació: 40x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:ed80ddf9-3410-4a51-904c-3bc36b910807
+DTSTAMP:2022-07-25T09:37:13.100113
+DTSTART;VALUE=DATE:20220615
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Tomàquet]: Recol·lecció
+DESCRIPTION:<b>Tomàquet</b><br/>Esdeveniment: Recol·lecció<br/><br/><b>Informació</b><br/>Familia: LES HORTALISSES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 5-8<br/>Profunditat semba (cm): 0,5-1,5<br/>Durada del cicle fins la recolecció: 145/75<br/>Marc de plantació: 40x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:2070efee-9ee0-4778-a8b9-3b14f42f1bd9
+DTSTAMP:2022-07-25T09:37:13.100122
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Alfàbrega]: Sembra a terra
+DESCRIPTION:<b>Alfàbrega</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 20x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:da0535bd-50f6-42d0-8217-a70608e37f6c
+DTSTAMP:2022-07-25T09:37:13.100132
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Alfàbrega]: Floració
+DESCRIPTION:<b>Alfàbrega</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 20x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:208ee2cb-19c5-4a19-b5fb-1c74bcce1946
+DTSTAMP:2022-07-25T09:37:13.100141
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Donzell]: Sembra en llavorer
+DESCRIPTION:<b>Donzell</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:b633571e-033b-46ee-9f42-bab3a412e402
+DTSTAMP:2022-07-25T09:37:13.100150
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Donzell]: Esqueix o trasplantament
+DESCRIPTION:<b>Donzell</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d91378de-6e9b-4dbd-8ce0-286050de74eb
+DTSTAMP:2022-07-25T09:37:13.100160
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Donzell]: Floració
+DESCRIPTION:<b>Donzell</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:655ce39e-8b40-4958-91f8-4519a15c2a0f
+DTSTAMP:2022-07-25T09:37:13.100169
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espernellac]: Sembra en llavorer
+DESCRIPTION:<b>Espernellac</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:217d733e-b1fb-4bf6-873a-966e8577ddcb
+DTSTAMP:2022-07-25T09:37:13.100179
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espernellac]: Esqueix o trasplantament
+DESCRIPTION:<b>Espernellac</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:9576f9a8-93b4-4e53-8684-d4844ff49098
+DTSTAMP:2022-07-25T09:37:13.100188
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espernellac]: Floració
+DESCRIPTION:<b>Espernellac</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:eb28d472-bdaf-411c-a665-bb7bf7f0f327
+DTSTAMP:2022-07-25T09:37:13.100197
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220301
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espígol]: Sembra en llavorer
+DESCRIPTION:<b>Espígol</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:0a2f8982-fe93-4294-a38e-093dcb214967
+DTSTAMP:2022-07-25T09:37:13.100207
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espígol]: Sembra en llavorer
+DESCRIPTION:<b>Espígol</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:91b52f3a-3cd9-4e19-9683-4f4b0f023741
+DTSTAMP:2022-07-25T09:37:13.100216
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220815
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espígol]: Esqueix o trasplantament
+DESCRIPTION:<b>Espígol</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:eacf2238-db08-4602-95f5-2138bc49963d
+DTSTAMP:2022-07-25T09:37:13.100225
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Espígol]: Floració
+DESCRIPTION:<b>Espígol</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:58d30f92-7ca9-4ab3-8a69-467533826911
+DTSTAMP:2022-07-25T09:37:13.100234
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Farigola]: Sembra en llavorer
+DESCRIPTION:<b>Farigola</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 20-25<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 20x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:eec14cc8-bef0-480e-89cb-c402a16b461d
+DTSTAMP:2022-07-25T09:37:13.100244
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Farigola]: Esqueix o trasplantament
+DESCRIPTION:<b>Farigola</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 20-25<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 20x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:c4344a4b-1fe2-4e16-91e9-ff57b1daa227
+DTSTAMP:2022-07-25T09:37:13.100253
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Farigola]: Floració
+DESCRIPTION:<b>Farigola</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 20-25<br/>Profunditat semba (cm): 0,1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 20x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:3902815a-d685-4385-88eb-4f337502eab9
+DTSTAMP:2022-07-25T09:37:13.100262
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Julivert]: Sembra a terra
+DESCRIPTION:<b>Julivert</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Bianual<br/>Temps de germinació o brotació (dies): 25<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:14803268-189a-43b8-be92-4d169be8c204
+DTSTAMP:2022-07-25T09:37:13.100272
+DTSTART;VALUE=DATE:20220801
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Julivert]: Sembra a terra
+DESCRIPTION:<b>Julivert</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Bianual<br/>Temps de germinació o brotació (dies): 25<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:50797e05-3ba3-45d1-bed2-98c5628999dc
+DTSTAMP:2022-07-25T09:37:13.100281
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220815
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Julivert]: Floració
+DESCRIPTION:<b>Julivert</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Bianual<br/>Temps de germinació o brotació (dies): 25<br/>Profunditat semba (cm): 0,5-1<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:525de15a-1b61-4ba4-bf48-273808ebdd58
+DTSTAMP:2022-07-25T09:37:13.100291
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220301
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marialluïsa]: Sembra en llavorer
+DESCRIPTION:<b>Marialluïsa</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 100x100
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d6778823-0baf-42d3-a586-b5277a476512
+DTSTAMP:2022-07-25T09:37:13.100300
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marialluïsa]: Sembra en llavorer
+DESCRIPTION:<b>Marialluïsa</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 100x100
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:a9eb04e3-7b9b-499a-9f1b-9e8741c45b8d
+DTSTAMP:2022-07-25T09:37:13.100309
+DTSTART;VALUE=DATE:20220101
+DTEND;VALUE=DATE:20220201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marialluïsa]: Esqueix o trasplantament
+DESCRIPTION:<b>Marialluïsa</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 100x100
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:eb66d0d1-ce48-4508-abf7-cfd6ddacef2e
+DTSTAMP:2022-07-25T09:37:13.100318
+DTSTART;VALUE=DATE:20220415
+DTEND;VALUE=DATE:20220815
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marialluïsa]: Esqueix o trasplantament
+DESCRIPTION:<b>Marialluïsa</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 100x100
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:bff6887f-1af2-4bc9-bc33-af4d2e506509
+DTSTAMP:2022-07-25T09:37:13.100328
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marialluïsa]: Floració
+DESCRIPTION:<b>Marialluïsa</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,3<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 100x100
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7f26a7-e14c-49ea-b6c0-2e673ee5f1f4
+DTSTAMP:2022-07-25T09:37:13.100337
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marduix]: Sembra en llavorer
+DESCRIPTION:<b>Marduix</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:e0460e0c-da67-4903-bdcc-337d67183cfe
+DTSTAMP:2022-07-25T09:37:13.100347
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marduix]: Esqueix o trasplantament
+DESCRIPTION:<b>Marduix</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:9e34f541-637c-4af2-b4f8-cba31c22a210
+DTSTAMP:2022-07-25T09:37:13.100356
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Marduix]: Floració
+DESCRIPTION:<b>Marduix</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:4b60a68b-b4e3-467a-ac2b-f9e17921825b
+DTSTAMP:2022-07-25T09:37:13.100365
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220801
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Melissa]: Sembra en llavorer
+DESCRIPTION:<b>Melissa</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:92c91ddd-80c9-4f61-ab4b-7ac579769dc3
+DTSTAMP:2022-07-25T09:37:13.100375
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Melissa]: Esqueix o trasplantament
+DESCRIPTION:<b>Melissa</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:5724efd3-8226-4d73-b9e5-b32eb168aea7
+DTSTAMP:2022-07-25T09:37:13.100384
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Melissa]: Floració
+DESCRIPTION:<b>Melissa</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:1fbb4c34-b8f4-4e53-8e72-0980971b3e19
+DTSTAMP:2022-07-25T09:37:13.100393
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Menta]: Sembra en llavorer
+DESCRIPTION:<b>Menta</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:a39f610e-161b-49b5-8039-3fda2fb01b97
+DTSTAMP:2022-07-25T09:37:13.100402
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Menta]: Floració
+DESCRIPTION:<b>Menta</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:3073a4d6-8760-4600-8975-00a8a7338586
+DTSTAMP:2022-07-25T09:37:13.100412
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220501
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Orenga]: Sembra en llavorer
+DESCRIPTION:<b>Orenga</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d3b16d-03d6-49e7-ab04-cba885b64615
+DTSTAMP:2022-07-25T09:37:13.100421
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Orenga]: Esqueix o trasplantament
+DESCRIPTION:<b>Orenga</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f1e6e90b-53f4-49d8-bdb8-0307ae74c1d4
+DTSTAMP:2022-07-25T09:37:13.100430
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Orenga]: Floració
+DESCRIPTION:<b>Orenga</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:98f0219c-bf5e-4586-8a7a-12848ee10f00
+DTSTAMP:2022-07-25T09:37:13.100439
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220401
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Poliol]: Sembra en llavorer
+DESCRIPTION:<b>Poliol</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:ba931c24-c208-4c37-90d7-ca37456ce0c9
+DTSTAMP:2022-07-25T09:37:13.100448
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Poliol]: Esqueix o trasplantament
+DESCRIPTION:<b>Poliol</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:9a507e08-45f2-49e2-ae36-1f8222a54f49
+DTSTAMP:2022-07-25T09:37:13.100457
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Poliol]: Floració
+DESCRIPTION:<b>Poliol</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:15212139-318f-438a-ad8f-ca862f1fdbe9
+DTSTAMP:2022-07-25T09:37:13.100466
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Romaní]: Sembra en llavorer
+DESCRIPTION:<b>Romaní</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b78642-43d2-4fce-9dfa-72fd9f8c61b4
+DTSTAMP:2022-07-25T09:37:13.100476
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Romaní]: Esqueix o trasplantament
+DESCRIPTION:<b>Romaní</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:df020dd8-5865-4f8a-918e-edc9f96f755b
+DTSTAMP:2022-07-25T09:37:13.100485
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ruda]: Sembra en llavorer
+DESCRIPTION:<b>Ruda</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:58ac006f-f5c3-4150-8316-a5491b4c2cc8
+DTSTAMP:2022-07-25T09:37:13.100498
+DTSTART;VALUE=DATE:20220701
+DTEND;VALUE=DATE:20220815
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ruda]: Esqueix o trasplantament
+DESCRIPTION:<b>Ruda</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:9615fd10-fe41-450d-91d9-25cbeaae9e3f
+DTSTAMP:2022-07-25T09:37:13.100507
+DTSTART;VALUE=DATE:20220501
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Ruda]: Floració
+DESCRIPTION:<b>Ruda</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:0ba4d86b-709f-43d0-95ed-76e71e8c2bbb
+DTSTAMP:2022-07-25T09:37:13.100517
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Sajolida]: Sembra en llavorer
+DESCRIPTION:<b>Sajolida</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:a3e2f7e0-9bf3-4761-9594-a717f7bac36a
+DTSTAMP:2022-07-25T09:37:13.100526
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Sajolida]: Esqueix o trasplantament
+DESCRIPTION:<b>Sajolida</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:0dd5a03c-6681-4e0f-89b2-3f3f0e16d103
+DTSTAMP:2022-07-25T09:37:13.100536
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20221001
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Sajolida]: Floració
+DESCRIPTION:<b>Sajolida</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Vivaç<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:5046a32d-6e83-470c-aa06-af18a740c438
+DTSTAMP:2022-07-25T09:37:13.100545
+DTSTART;VALUE=DATE:20220215
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Sàlvia]: Sembra en llavorer
+DESCRIPTION:<b>Sàlvia</b><br/>Esdeveniment: Sembra en llavorer: es farà protegida quan la temperatura sigui inferior a 10ºC<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:5ed343b9-b834-42ec-90b2-5a32f749b838
+DTSTAMP:2022-07-25T09:37:13.100554
+DTSTART;VALUE=DATE:20220601
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Sàlvia]: Esqueix o trasplantament
+DESCRIPTION:<b>Sàlvia</b><br/>Esdeveniment: Esqueixos, divisió o trasplantament de plantes aromàtiques o vivaces<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:55a7cde5-105a-4de2-bdbd-4e35f7dbcb49
+DTSTAMP:2022-07-25T09:37:13.100564
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220701
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Sàlvia]: Floració
+DESCRIPTION:<b>Sàlvia</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES AROMÀTIQUES<br/>Categoria: Llenyosa<br/>Temps de germinació o brotació (dies): 15-20<br/>Profunditat semba (cm): 0,5<br/>Durada del cicle fins la recolecció: None<br/>Marc de plantació: 50x50
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:a439278d-283c-427c-a662-c5b95a4d87be
+DTSTAMP:2022-07-25T09:37:13.100573
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Boixac]: Sembra a terra
+DESCRIPTION:<b>Boixac</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:23e30d5c-4b13-4f2f-99ed-96d58f35e098
+DTSTAMP:2022-07-25T09:37:13.100582
+DTSTART;VALUE=DATE:20220901
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Boixac]: Sembra a terra
+DESCRIPTION:<b>Boixac</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:d6ca4672-bd00-46ad-ae29-8b5287060c2f
+DTSTAMP:2022-07-25T09:37:13.100591
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Boixac]: Floració
+DESCRIPTION:<b>Boixac</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:ed27cddc-dd8d-47c6-b15c-693c76110f62
+DTSTAMP:2022-07-25T09:37:13.100601
+DTSTART;VALUE=DATE:20220115
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Camamilla]: Sembra a terra
+DESCRIPTION:<b>Camamilla</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:6d28209b-4871-4f95-803a-805fbe0211ec
+DTSTAMP:2022-07-25T09:37:13.100610
+DTSTART;VALUE=DATE:20220315
+DTEND;VALUE=DATE:20220901
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Camamilla]: Floració
+DESCRIPTION:<b>Camamilla</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 8-10<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 30x30
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:70f33d56-b8be-4307-bee4-80e4b641ede6
+DTSTAMP:2022-07-25T09:37:13.100619
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Caputxina]: Sembra a terra
+DESCRIPTION:<b>Caputxina</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,5-2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:0cb578f5-2c76-4761-9ac7-ba57d4aa466c
+DTSTAMP:2022-07-25T09:37:13.100628
+DTSTART;VALUE=DATE:20220301
+DTEND;VALUE=DATE:20221101
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Caputxina]: Floració
+DESCRIPTION:<b>Caputxina</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,5-2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 40x40
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:3f52e181-41ad-4681-a001-d43d3b09d8f8
+DTSTAMP:2022-07-25T09:37:13.100637
+DTSTART;VALUE=DATE:20220201
+DTEND;VALUE=DATE:20220601
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Clavell de moro]: Sembra a terra
+DESCRIPTION:<b>Clavell de moro</b><br/>Esdeveniment: Sembra directa a la terra de cultiu<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 20x20
+LOCATION:Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:2997c836-8c7e-4e44-a719-fffb6624e2f6
+DTSTAMP:2022-07-25T09:37:13.100646
+DTSTART;VALUE=DATE:20220401
+DTEND;VALUE=DATE:20221201
+RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
+SUMMARY:[Clavell de moro]: Floració
+DESCRIPTION:<b>Clavell de moro</b><br/>Esdeveniment: Floració de plantes aromàticas o útils<br/><br/><b>Informació</b><br/>Familia: PLANTES ÚTILS<br/>Categoria: Anual<br/>Temps de germinació o brotació (dies): 10-15<br/>Profunditat semba (cm): 0,2<br/>Durada del cicle fins la recolecció: 120<br/>Marc de plantació: 20x20
+LOCATION:Catalunya
+END:VEVENT
+END:VCALENDAR
