@@ -6,7 +6,7 @@ wb = load_workbook("data.xlsx")
 
 calendar = wb["calendar"]
 event = wb["event"]
-category = wb["category"]
+lifecycle = wb["lifecycle"]
 
 events = {
     event.cell(row=row, column=1).value: {
@@ -15,8 +15,8 @@ events = {
     }
     for row in range(2, 9)
 }
-categories = {
-    category.cell(row=row, column=1).value: category.cell(row=row, column=2).value
+lifecycles = {
+    lifecycle.cell(row=row, column=1).value: lifecycle.cell(row=row, column=2).value
     for row in range(2, 6)
 }
 
@@ -56,13 +56,15 @@ for row in range(4, 142):
 
     if calendar.cell(row=row, column=2).value:
         genus_name = calendar.cell(row=row, column=2).value.strip()
-        category = calendar.cell(row=row, column=3).value.strip()
+        lifecycle = calendar.cell(row=row, column=3).value.strip()
         genus = {
             "genus": genus_name,
-            "category": category,
+            "lifecycle": lifecycle,
             "events": [],
             "meta": [
                 str(calendar.cell(row=row, column=col).value).strip()
+                if calendar.cell(row=row, column=col).value
+                else ""
                 for col in range(4, 8)
             ],
         }
@@ -96,7 +98,7 @@ DTSTART;VALUE=DATE:{start_date}
 DTEND;VALUE=DATE:{end_date}
 RRULE:FREQ=YEARLY;INTERVAL=1;WKST=MO
 SUMMARY:[{genus}]: {event}
-DESCRIPTION:<b>{genus}</b><br/>Esdeveniment: {description}<br/><br/><b>Informació</b><br/>Familia: {family}<br/>Categoria: {category}<br/>Temps de germinació o brotació (dies): {meta_1}<br/>Profunditat semba (cm): {meta_2}<br/>Durada del cicle fins la recolecció: {meta_3}<br/>Marc de plantació: {meta_4}
+DESCRIPTION:<b>{genus}</b><br/>Esdeveniment: {description}<br/><br/><b>Informació</b><br/>Familia: {family}<br/>Cicle de vida: {lifecycle}<br/>Temps de germinació o brotació (dies): {meta_1}<br/>Profunditat semba (cm): {meta_2}<br/>Durada del cicle fins la recolecció: {meta_3}<br/>Marc de plantació: {meta_4}
 LOCATION:Catalunya
 END:VEVENT"""
 
@@ -133,7 +135,7 @@ icalendar = icalendar.format(
             event_template.format(
                 family=family_name,
                 genus=genus["genus"],
-                category=categories[genus["category"]],
+                lifecycle=lifecycles[genus["lifecycle"]],
                 event=events[event["type"]]["name"],
                 description=events[event["type"]]["description"],
                 time_stamp=dt.now().isoformat(),
